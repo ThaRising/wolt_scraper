@@ -8,6 +8,7 @@ authors = ["ThaRising <kochbe.ber@gmail.com>"]
 python = "^3.8"
 beautifulsoup4 = "^4.10.0"
 requests = "^2.26.0"
+pyppeteer = "^0.2.6"
 
 [tool.poetry.dev-dependencies]
 
